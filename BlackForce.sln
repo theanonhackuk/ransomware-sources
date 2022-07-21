@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackForce", "BlackForce\BlackForce.csproj", "{BBAEDBCE-57C7-4CB6-8A4F-4BB5ED6E61CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBAEDBCE-57C7-4CB6-8A4F-4BB5ED6E61CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAEDBCE-57C7-4CB6-8A4F-4BB5ED6E61CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAEDBCE-57C7-4CB6-8A4F-4BB5ED6E61CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAEDBCE-57C7-4CB6-8A4F-4BB5ED6E61CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
