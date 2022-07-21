@@ -1,0 +1,2 @@
+Compile (Windows): javac -cp .;commons-io-2.6.jar Ransomware.java
+Run (Windows): java -cp .;common-io-2.6.jar Ransomware
