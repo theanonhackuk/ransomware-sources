@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.web.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="727.0" prefWidth="1047.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="javafxapplicationtest.FXMLDocumentController">
+   <children>
+      <TextArea fx:id="te" layoutX="35.0" layoutY="218.0" prefHeight="418.0" prefWidth="937.0" />
+      <ChoiceBox fx:id="cb" layoutX="374.0" layoutY="183.0" prefWidth="150.0" />
+      <Hyperlink layoutX="35.0" layoutY="676.0" onAction="#wi" text="What is bitcoin?" />
+      <Label layoutX="214.0" layoutY="187.0" prefHeight="15.0" prefWidth="137.0" text="Choose your language" />
+      <ImageView fx:id="imv" fitHeight="150.0" fitWidth="200.0" layoutX="50.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true" />
+      <Label layoutX="325.0" layoutY="55.0" prefHeight="92.0" prefWidth="587.0" text="Ooops!You has become a victim of JavaLocker Ransomware!!!" textFill="RED">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <Button layoutX="255.0" layoutY="665.0" mnemonicParsing="false" onAction="#eng" prefHeight="23.0" prefWidth="144.0" text="Encrypt" />
+   </children>
+</AnchorPane>
